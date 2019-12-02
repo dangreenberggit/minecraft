@@ -1,0 +1,53 @@
+/* environment */
+.dirt {
+  background-color: red;
+  height: 50px;
+  width: 50px;
+}
+
+.sky {
+  background-color: blue;
+  height: 50px;
+  width: 50px;
+}
+
+.grass {
+  /*  */
+}
+
+.cloud {
+  /*  */
+}
+
+.diamond {
+  /*  */
+}
+
+.lava {
+  /*  */
+}
+
+.leaf {
+  /*  */
+}
+
+.rock {
+  /*  */
+}
+
+.tree {
+  /*  */
+}
+
+/* tools */
+.shovel {
+  background-color: brown;
+  height: 50px;
+  width: 50px;
+}
+
+.picaxe {
+  background-color: black;
+  height: 50px;
+  width: 50px;
+}
